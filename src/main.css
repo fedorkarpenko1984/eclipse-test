@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.flex-center-space-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.center-x {
+    margin: 0 auto;
+}
+.pad-top1rem {
+    padding-top: 1rem;
+}
+.pad-left1rem {
+    padding-left: 1rem;
+}
+.fs24px {
+    font-size: 24px;
+}
+.fs16px {
+    font-size: 16px;
+}
+.roboto {
+    font-family: Roboto;
+}
+.leftonade {
+    font-family: Leftonade;
+}
+.font-color-grey {
+    color: grey;
+}
+.font-color-blue {
+    color: slateblue;
+}
+.no-outline {
+    outline: none;
+}
+.no-border {
+    border: none;
+}
+.border-grey {
+    border: 1px solid lightslategrey;
+}
+.font-bold {
+    font-weight: 600;
+}
+.marg-left1rem {
+    margin-left: 1rem;
+}
